@@ -1,0 +1,587 @@
+=== villager_hat ===
+            trinket: "head",
+            stats: {
+                critChance: 3
+            },
+            passives: {
+                village_hero: 1
+            },
+            loot: {
+                structures: [
+                    { structure: "pillager_outpost", chance: 0.10 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:pillager", chance: 0.02 },
+                { entity: "minecraft:vindicator", chance: 0.03 }
+            ]
+        },
+
+=== superstitious_hat ===
+            trinket: "head",
+            stats: {
+                critChance: 8
+            },
+            loot: {
+                structures: [
+                    { structure: "desert_pyramid", chance: 0.06 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:witch", chance: 0.04 },
+                { entity: "minecraft:evoker", chance: 0.05 }
+            ]
+        },
+
+        // Angler's Hat — Speed + luck while fishing area
+        
+
+=== whoopee_cushion ===
+            trinket: "head",
+            stats: {
+                speed: 5
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:zombie", chance: 0.01 }
+            ]
+        },
+
+        // Pirate Hat — 20% loot dupe on kill (event in system.js)
+        // BUFFED: +10 critChance (buried treasure item)
+        
+
+=== cross_necklace ===
+            trinket: "necklace",
+            stats: {
+                damageReduction: 10,
+                health: 6
+            },
+            loot: {
+                structures: [
+                    { structure: "desert_pyramid", chance: 0.06 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:zombie", chance: 0.02 },
+                { entity: "minecraft:husk", chance: 0.02 }
+            ]
+        },
+
+        // Shock Pendant — 25% lightning strike on attacker (event in system.js)
+
+=== lucky_scarf ===
+            trinket: "necklace",
+            stats: {
+                critChance: 10
+            },
+            loot: {
+                structures: [
+                    { structure: "desert_pyramid", chance: 0.04 },
+                    { structure: "pillager_outpost", chance: 0.06 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:witch", chance: 0.03 }
+            ]
+        },
+
+        // Scarf of Invisibility — Permanent Invisibility + speed
+        
+
+=== feral_claws ===
+            trinket: "gauntlet",
+            stats: {
+                attack: 3,
+                critChance: 12,
+                critMulti: 20
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.05 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:cave_spider", chance: 0.04 },
+                { entity: "minecraft:spider", chance: 0.03 }
+            ]
+        },
+
+
+=== steadfast_spikes ===
+            trinket: "gauntlet",
+            stats: {
+                knockbackRes: 60,
+                health: 2,
+                thorns: 5
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:iron_golem", chance: 0.03 },
+                { entity: "minecraft:hoglin", chance: 0.02 }
+            ]
+        },
+
+
+=== universal_attractor ===
+            trinket: ["charm", "charm2"],
+            stats: {
+                speed: 10
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:iron_golem", chance: 0.02 }
+            ]
+        },
+
+        // Warp Drive — Ender pearl refund (event in system.js) + End theme
+        
+
+=== crystal_heart ===
+            trinket: "heartycharm",
+            stats: {
+                health: 16,
+                healthRegen: 1
+            },
+            loot: {
+                structures: [
+                    { structure: "desert_pyramid", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:warden", chance: 0.10 },
+                { entity: "minecraft:elder_guardian", chance: 0.04 }
+            ]
+        },
+
+        // Heart from the Fourth Dimension — Death save: revive with 4 hearts (event in system.js)
+
+=== plastic_drinking_hat ===
+            trinket: "head",
+            stats: {
+                health: 2,
+                healthRegen: 5
+            },
+            passives: {
+                saturation: 1
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:zombie", chance: 0.01 }
+            ]
+        },
+
+=== novelty_drinking_hat ===
+            trinket: "head",
+            stats: {
+                speed: 10,
+                healthRegen: 3
+            },
+            passives: {
+                saturation: 1
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:skeleton", chance: 0.01 }
+            ]
+        }
+
+=== umbrella ===
+            trinket: ["charm", "charm2"],
+            stats: {
+                damageReduction: 5
+            },
+            passives: {
+                slow_falling: 1
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.05 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:zombie", chance: 0.01 },
+                { entity: "minecraft:skeleton", chance: 0.01 }
+            ]
+        }
+
+=== pirate_hat ===
+            trinket: "head",
+            stats: {
+                critChance: 10
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.01 },
+                    { structure: "buried_treasure", chance: 0.12 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:drowned", chance: 0.0201 },
+                { entity: "minecraft:pillager", chance: 0.02 }
+            ]
+        }
+    },
+
+
+=== holy_necklace ===
+            trinket: "necklace",
+            stats: {
+                attack: 3,
+                health: 2
+            },
+            loot: {
+                structures: [
+                    { structure: "pillager_outpost", chance: 0.06 },
+                    { structure: "desert_pyramid", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:zombie", chance: 0.02 },
+                { entity: "minecraft:skeleton", chance: 0.02 },
+                { entity: "minecraft:wither_skeleton", chance: 0.03 }
+            ]
+        }
+
+=== holy_dagger ===
+            trinket: "gauntlet",
+            stats: {
+                attack: 3
+            },
+            loot: {
+                structures: [
+                    { structure: "pillager_outpost", chance: 0.06 },
+                    { structure: "desert_pyramid", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:wither_skeleton", chance: 0.04 },
+                { entity: "minecraft:zombie", chance: 0.02 }
+            ]
+        },
+
+        // Silk Glove — Silk-touch: ores drop the block itself (event in system.js)
+
+=== mirror ===
+            trinket: ["charm", "charm2"],
+            stats: {
+                thorns: 5,
+                health: 2
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.03 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:witch", chance: 0.03 },
+                { entity: "minecraft:creeper", chance: 0.02 }
+            ]
+        },
+
+        // Necromancer Charm — 60% summon skeleton ally on kill (event in system.js)
+
+=== voodoo ===
+            trinket: "doll",
+            stats: {
+                thorns: 5
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.03 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:witch", chance: 0.04 },
+                { entity: "minecraft:evoker", chance: 0.03 }
+            ]
+        }
+    },
+
+    // =========================================================================
+
+=== monocle ===
+            trinket: "face",
+            stats: {
+                critChance: 6
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.05 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:skeleton", chance: 0.02 },
+                { entity: "minecraft:spider", chance: 0.02 }
+            ]
+        }
+    },
+
+    // =========================================================================
+
+=== berserk_ring ===
+            trinket: "heavyring",
+            stats: {
+                attack: 4,
+                critMulti: 5
+            },
+            loot: {
+                structures: [
+                    { structure: "bastion", chance: 0.06 },
+                    { structure: "nether_fortress", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:piglin_brute", chance: 0.04 },
+                { entity: "minecraft:hoglin", chance: 0.03 }
+            ]
+        },
+
+
+=== vampire_ring ===
+            trinket: "heavyring",
+            stats: {
+                lifeSteal: 35,
+                attack: 2
+            },
+            loot: {
+                structures: [
+                    { structure: "bastion", chance: 0.05 },
+                    { structure: "nether_fortress", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:piglin_brute", chance: 0.03 },
+                { entity: "minecraft:piglin", chance: 0.02 },
+                { entity: "minecraft:hoglin", chance: 0.02 }
+            ]
+        },
+
+=== sprint_ring ===
+            trinket: ["ring", "ring2"],
+            stats: {
+                speed: 15
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.04 },
+                    { structure: "pillager_outpost", chance: 0.06 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:pillager", chance: 0.02 },
+                { entity: "minecraft:spider", chance: 0.02 }
+            ]
+        },
+
+        // Gale Ring — Slow falling + fall damage negation (event in system.js)
+
+=== gale_ring ===
+            trinket: ["ring", "ring2"],
+            stats: {
+                extraJumps: 1
+            },
+            passives: {
+                slow_falling: 1
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:phantom", chance: 0.03 },
+                { entity: "minecraft:breeze", chance: 0.04 }
+            ]
+        },
+
+=== shepherds_ring ===
+            trinket: ["ring", "ring2"],
+            stats: {
+                health: 2,
+                healthRegen: 1
+            },
+            loot: {
+                biomes: [
+                    { biome: "minecraft:plains", chance: 0.04 },
+                    { biome: "minecraft:savanna", chance: 0.04 },
+                    { biome: "minecraft:flower_forest", chance: 0.06 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:pillager", chance: 0.02 },
+                { entity: "minecraft:zombie", chance: 0.01 }
+            ]
+        },
+
+=== frost_ring ===
+            trinket: ["ring", "ring2"],
+            stats: {
+                damageReduction: 5
+            },
+            loot: {
+                biomes: [
+                    { biome: "minecraft:frozen_peaks", chance: 0.06 },
+                    { biome: "minecraft:ice_plains", chance: 0.06 },
+                    { biome: "minecraft:ice_plains_spikes", chance: 0.08 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:stray", chance: 0.04 },
+                { entity: "minecraft:bogged", chance: 0.03 }
+            ]
+        }
+    },
+
+=== tidal_ring ===
+            trinket: "heavyring",
+            stats: {
+                waterSpeed: 50
+            },
+            loot: {
+                biomes: [
+                    { biome: "minecraft:deep_ocean", chance: 0.04 },
+                    { biome: "minecraft:deep_cold_ocean", chance: 0.04 },
+                    { biome: "minecraft:deep_lukewarm_ocean", chance: 0.04 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:elder_guardian", chance: 0.05 },
+                { entity: "minecraft:guardian", chance: 0.03 }
+            ]
+        },
+        
+
+=== earthshaker_ring ===
+            trinket: "heavyring",
+            stats: {
+                attack: 3,
+                knockback: 2
+            },
+            loot: {
+                structures: [
+                    { structure: "bastion", chance: 0.04 },
+                    { structure: "nether_fortress", chance: 0.03 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:warden", chance: 0.06 },
+                { entity: "minecraft:iron_golem", chance: 0.03 }
+            ]
+        },
+
+
+=== gravity_ring ===
+            trinket: "heavyring",
+            stats: {
+                knockbackRes: 20
+            },
+            loot: {
+                structures: [
+                    {
+                        structure: "default",
+                        chance: 0.03,
+                        conditions: {
+                            dimension: "minecraft:the_end"
+                        }
+                    }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:enderman", chance: 0.02 },
+
+=== ender_ring ===
+            trinket: "heavyring",
+            stats: {
+                attack: 2,
+                speed: 10
+            },
+            loot: {
+                structures: [
+                    {
+                        structure: "default",
+                        chance: 0.03,
+                        conditions: {
+                            dimension: "minecraft:the_end"
+                        }
+                    }
+                ]
+            },
+            drops: [
+
+=== heart_from_the_fourth_dimension ===
+            trinket: "heartycharm",
+            stats: {
+                health: 20,
+                damageReduction: 30
+            },
+            loot: {
+                structures: [
+                    {
+                        structure: "default",
+                        chance: 0.02,
+                        conditions: {
+                            dimension: "minecraft:the_end"
+                        }
+                    }
+                ]
+            },
+            drops: [
+
+=== night_vision_goggles ===
+            trinket: "face",
+            passives: {
+                night_vision: 1
+            },
+            loot: {
+                structures: [
+                    { structure: "default", chance: 0.06 }
+                ]
+            },
+            drops: [
+                { entity: "minecraft:phantom", chance: 0.04 }
+            ]
+        },
+
+        // Snorkel — Water Breathing + swim speed
+        
+
+=== snorkel ===
+            trinket: "face",
+            stats: {
+                waterSpeed: 30
+            },
+            passives: {
+                water_breathing: 1
+            },
+            loot: {
+                biomes: [
+                    { biome: "minecraft:beach", chance: 0.08 },
+                    { biome: "minecraft:ocean", chance: 0.08 },
+                    { biome: "minecraft:deep_ocean", chance: 0.12 },
+                    { biome: "minecraft:cold_ocean", chance: 0.08 },
+                    { biome: "minecraft:deep_cold_ocean", chance: 0.12 },
+                    { biome: "minecraft:lukewarm_ocean", chance: 0.08 },
+                    { biome: "minecraft:deep_lukewarm_ocean", chance: 0.12 }
+                ]
+

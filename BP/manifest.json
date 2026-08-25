@@ -1,0 +1,64 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"product_type": "addon",
+		"authors": [
+			"Dorios Studios"
+		]
+	},
+	"header": {
+		"name": "Too Many Trinkets",
+		"description": "Version 1.1.0 §6Dorios Studios",
+		"min_engine_version": [
+			1,
+			21,
+			80
+		],
+		"uuid": "a3d28a2c-6a9f-4c64-b373-851ccd7e9f07",
+		"version": [
+			1,
+			1,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "69e19136-a8d0-4521-90e3-10acb5ffde40",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "b7e3f1a2-5d8c-49f6-a2e1-c4d9b8f67e31",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "1b5a8b40-fc9c-4128-81c7-27c45093d016",
+			"version": [
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.5.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		}
+	]
+}

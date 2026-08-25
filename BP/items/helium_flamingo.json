@@ -1,0 +1,15 @@
+﻿{
+	"format_version": "1.21.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "dorios:helium_flamingo",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "dorios_helium_flamingo",
+			"minecraft:max_stack_size": 1
+		}
+	}
+}

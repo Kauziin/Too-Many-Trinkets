@@ -1,0 +1,25 @@
+MISS: night_vision_goggles
+MISS: snorkel
+MISS: villager_hat
+OK: whoopee_cushion
+MISS: cross_necklace
+MISS: feral_claws
+MISS: steadfast_spikes
+MISS: universal_attractor
+MISS: crystal_heart
+MISS: plastic_drinking_hat
+MISS: novelty_drinking_hat
+MISS: umbrella
+OK: holy_necklace
+OK: holy_dagger
+OK: mirror
+OK: berserk_ring
+OK: vampire_ring
+OK: sprint_ring
+OK: gale_ring
+OK: shepherds_ring
+OK: tidal_ring
+OK: earthshaker_ring
+OK: ender_ring
+OK: heart_from_the_fourth_dimension
+=== FILE SAVED ===

@@ -1,0 +1,84 @@
+night_vision_goggles (1 glyphs): Goggles that let you see through the darkness. \n+[U+E149] I
+snorkel (2 glyphs): A breathing tube for underwater exploration. \n+30%[U+E119] \n+[U+E14A] I
+villager_hat (1 glyphs): A hat that makes villagers treat you as a hero. \n+3% Crit Chance \n+[U+E13B] I
+cowboy_hat (1 glyphs): A stylish hat that quickens your step. \n+20%[U+E118]
+anglers_hat (1 glyphs): A fisherman's hat with a 33% chance to duplicate fished items. \n+10%[U+E118]
+whoopee_cushion (1 glyphs): A gag item that makes funny sounds when you move. \n+5%[U+E118]
+panic_necklace (3 glyphs): Grants a burst of speed when you take damage. \n+20%[U+E118] | +2[U+E116] \n+[U+E13B] I on hit (5s)
+cross_necklace (2 glyphs): Extends your invincibility frames after being hit. \n+10% Damage Reduction | +6[U+E116] \n+[U+E139] I on hit (3s)
+shock_pendant (1 glyphs): 25% chance to strike your attacker with lightning. \n+2[U+E117] | +5% Thorns
+flame_pendant (1 glyphs): 40% chance to set your attacker on fire. \n+3[U+E14D] on hit
+thorn_pendant (1 glyphs): Reflects damage back at attackers with thorny vengeance. \n+20% Thorns | +2[U+E116]
+scarf_of_invisibility (2 glyphs): Wraps you in permanent invisibility. \n+15%[U+E118] \n+[U+E13A] I
+charm_of_shrinking (1 glyphs): Shrinks you down, making you faster and harder to hit. \n+20%[U+E118] | +10% Damage Reduction
+charm_of_sinking (2 glyphs): Grants Conduit Power for underwater dominance. \n+50%[U+E119] \n+[U+E11D] I
+fire_gauntlet (2 glyphs): A blazing gauntlet that ignites enemies on contact. \n+1[U+E117] \n+[U+E14D] on hit
+feral_claws (1 glyphs): Savage claws that rip through enemies with critical strikes. \n+3[U+E117] | +12% Crit | +20% Crit Multi
+power_glove (1 glyphs): A mighty glove that sends enemies flying. \n+4[U+E117] | +10% Knockback
+digging_claws (2 glyphs): Sharp claws that speed up your mining. \n+1[U+E117] \n+[U+E11E] I
+pocket_piston (1 glyphs): A mechanical device that punches with extra force. \n+2[U+E117] | +15% Knockback
+pickaxe_heater (2 glyphs): Auto-smelts mined ores into ingots. \n+1[U+E117] \n+[U+E11E] I
+withered_bracelet (3 glyphs): A dark bracelet that inflicts Wither on enemies. \n+2[U+E117] \n+[U+E14B] on hit \n[U+E14B] Immunity
+steadfast_spikes (1 glyphs): Spiky boots that keep you grounded and punish attackers. \n+60% KB Resist | +2[U+E116] | +5% Thorns
+golden_hook (1 glyphs): A golden hook that grants bonus XP on kills. \n+2[U+E117]
+onion_ring (2 glyphs): A delicious ring that satiates hunger and grants Haste on eating. \n+4[U+E116] \n+[U+E12B] I
+vampiric_glove (1 glyphs): Drains life from enemies with each strike. \n+1[U+E117] \n+8% Lifesteal
+obsidian_skull (3 glyphs): Grants fire immunity and brief resistance to lava. \n+4[U+E116] \n+[U+E129] I (in Lava) \n[U+E14C] Immunity
+antidote_vessel (4 glyphs): A cleansing vessel that purifies harmful toxins. \n+2[U+E116] \n[U+E14C] | [U+E14B] | [U+E12B] Immunity
+cloud_in_a_bottle (1 glyphs): A bottled cloud that grants a double jump. \n+10%[U+E118] \n+1 Extra Jump
+universal_attractor (1 glyphs): A magnetic device that pulls nearby items toward you. \n+10%[U+E118] \nItem Magnet
+warp_drive (1 glyphs): Bends spacetime to preserve ender pearls on use. \n+10%[U+E118] \n+1 Extra Jump \nEnder Pearl Refund
+crystal_heart (2 glyphs): A radiant heart that greatly boosts your vitality. \n+16[U+E116] \n+[U+E110] I
+chorus_totem (2 glyphs): Teleports you to safety when you would die. \n+4[U+E116] | +10%[U+E118] \nDeath Save (Teleport)
+helium_flamingo (1 glyphs): A whimsical float that grants an extra jump and agility. \n+10%[U+E118] \n+1 Extra Jump
+running_shoes (1 glyphs): Lightweight shoes that increase movement speed. \n+50%[U+E118]
+bunny_hoppers (2 glyphs): Springy boots with high jumps and no fall damage. \n+10%[U+E118] \n+[U+E12E] II | +2 Extra Jumps \nNo Fall Damage
+kitty_slippers (1 glyphs): Adorable slippers that scare away Creepers. \n+20%[U+E118] | +5% Crit Chance \nCreeper Repellent
+flippers (2 glyphs): Swim fins that greatly boost water speed. \n+10%[U+E118] | +80%[U+E119]
+rooted_boots (2 glyphs): Nature-infused boots that regenerate health over time. \n+4[U+E116] | +10% Damage Reduction \n+[U+E110] I
+aqua_dashers (3 glyphs): Enchanted boots that let you dash through water with ease. \n+15%[U+E118] | +100%[U+E119] \n+[U+E14A] I
+snowshoes (2 glyphs): Wide boots that let you traverse snow and ice unhindered. \n+25%[U+E118] | +15% Damage Reduction \n[U+E13C] Immunity
+strider_shoes (3 glyphs): Molten boots that grant immunity to fire and lava speed. \n+15%[U+E118] | +200% Lava[U+E118] \n+[U+E129] I
+plastic_drinking_hat (3 glyphs): Keeps you hydrated and well-fed at all times. \n+2[U+E116] | +5[U+E110] \n+[U+E12B] I
+novelty_drinking_hat (3 glyphs): A flashy variant that keeps you energized and moving. \n+10%[U+E118] | +3[U+E110] \n+[U+E12B] I
+umbrella (2 glyphs): A protective parasol that softens falls and shields from above. \n+5% Damage Reduction \n+[U+E13F] I \n+[U+E139] I (Outdoors)
+conduit_necklace (2 glyphs): Grants Conduit Power while submerged underwater. \n[U+E119]+30% \n[U+E14A]+ I when underwater
+holy_necklace (2 glyphs): Sets nearby undead ablaze with holy fire. \n[U+E117]+3 | [U+E116]+2 \nHoly Fire Aura
+freezing_glove (2 glyphs): Freezes enemies on contact with biting cold. \n[U+E117]+1 \n[U+E13C]+ II on hit
+holy_dagger (1 glyphs): Deals extra damage to undead creatures. \n[U+E117]+3 \n+2-6 vs Undead
+falling_resistance_ring (2 glyphs): A ring that cushions your fall with a gentle descent. \n[U+E116]+2 \n[U+E13F]+ I
+deep_sea_ring (2 glyphs): A ring that lets you breathe beneath the waves. \n[U+E119]+30% \n[U+E14A]+ I
+fall_regen_ring (2 glyphs): Regeneration is triggered when you take fall damage. \n[U+E116]+2 | [U+E110]+1 \nRegen on Fall
+heroic_ring (2 glyphs): Marks you as a hero in the eyes of villagers. \n[U+E116]+4 \n[U+E13B]+ I
+miners_ring (2 glyphs): Speeds up your mining with enhanced efficiency. \n[U+E117]+1 \n[U+E11E]+ I
+dice (1 glyphs): 25% chance to duplicate mob drops on kill. \n[U+E118]+5% Crit Chance
+golden_horn (1 glyphs): A horn that weakens Illagers on hit. \n[U+E117]+2 \nWeakness to Illagers
+holy_grail (2 glyphs): Trades XP for gradual health regeneration. \n[U+E116]+4 | [U+E110]+3 \nXP to HP Conversion
+mirror (1 glyphs): 40% chance to reflect melee damage back at attackers. \n[U+E116]+2 | +5% Thorns \n40% Damage Reflect
+necromancer_charm (1 glyphs): 60% chance to summon an undead ally on kill. \n[U+E117]+2 \nSummon Skeleton Ally
+void_star (1 glyphs): Pacifies nearby Endermen with cosmic energy. \n[U+E116]+2 \nEnderman Pacification
+weight (1 glyphs): Deals AoE damage when landing from a height. \n[U+E116]+4 | +10% Knockback \nAoE on Landing
+golden_feather (2 glyphs): A gentle feather that grants a slow, safe descent. \n[U+E118]+10% \n[U+E13F]+ I
+void_totem (2 glyphs): Teleports you to safety when falling into the void. \n[U+E116]+4 | [U+E118]+10% \nVoid Death Save
+floater_boots (2 glyphs): Buoyant boots for effortless water traversal. \n[U+E119]+80% \n[U+E14A]+ I
+anti_slip_boots (2 glyphs): Boots that prevent slipping on ice and snow. \n[U+E118]+25% | +5% Damage Reduction \n[U+E13C] Immunity
+rocket_boots (1 glyphs): Propulsive boots that launch you skyward. \n[U+E118]+10% \n+2 Extra Jumps
+guardian_fin (2 glyphs): A fin enhancement for swift underwater movement. \n[U+E118]+10% | [U+E119]+60%
+golden_skull (1 glyphs): A fearsome skull that enhances your combat prowess. \n[U+E117]+3 | +10% Crit Chance
+devine_protection_ring (2 glyphs): Grants Resistance when your health drops low. \n[U+E116]+4 | +5% Damage Reduction \n[U+E139]+ II at low HP
+feline_protection_ring (2 glyphs): Scares away Creepers with the essence of cats. \n[U+E116]+2 | [U+E118]+10% \nCreeper Repellent
+magnetic_ring (1 glyphs): A ring that draws nearby items toward you. \n[U+E118]+5% \nItem Magnet
+shadow_sneak_ring (3 glyphs): Grants Invisibility and Speed while sneaking. \n[U+E118]+10% \n[U+E13A]+ I | [U+E118]+ I when sneaking
+berserk_ring (1 glyphs): Stacking Strength on each kill (max level V, 5s). \n[U+E117]+4 | +5% Crit Multi \nStrength on Kill
+vampire_ring (1 glyphs): Drains 25% of damage dealt as health. \n[U+E117]+2 | +35% Lifesteal
+anti_curse_ring (5 glyphs): Purifies all negative status effects. \n[U+E116]+4 | +5% Damage Reduction \n[U+E14C][U+E14B][U+E12B][U+E13C] Full Immunity
+life_buoy (2 glyphs): Lets you float upward when sneaking underwater. \n[U+E119]+30% | [U+E116]+2 \nFloat Underwater
+rocket_thruster (1 glyphs): A thruster that provides an extra boost of speed. \n[U+E118]+20% \n+1 Extra Jump
+premium_pillow (2 glyphs): A luxurious pillow that soothes and heals over time. \n[U+E116]+2 | [U+E110]+5
+sprint_ring (3 glyphs): Grants Speed II and Strength I while sprinting. \n[U+E118]+15% \n+[U+E13B] II | +[U+E13D] I while sprinting
+gale_ring (1 glyphs): A wind-infused ring that negates fall damage. \n+1 Extra Jump \n+[U+E13F] I \nNo Fall Damage
+shepherds_ring (2 glyphs): Doubles drops when killing passive animals. \n[U+E116]+2 | [U+E110]+1 \nDouble Animal Drops
+tidal_ring (2 glyphs): Channels the ocean's power when submerged. \n[U+E119]+50% \n+[U+E14A] I when underwater
+earthshaker_ring (1 glyphs): Slams the ground on landing, damaging nearby foes. \n[U+E117]+3 | +2 Knockback \nAoE Stomp on Landing
+ender_ring (2 glyphs): Auto-extinguishes fire and teleports you to safety at low HP. \n[U+E117]+2 | [U+E118]+10% \nFire Extinguish | Teleport Save
+heart_from_the_fourth_dimension (1 glyphs): Revives you with 4 hearts when near death. \n[U+E116]+20 | +30% Damage Reduction \nDeath Save (5 min cooldown)

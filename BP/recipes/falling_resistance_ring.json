@@ -1,0 +1,18 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:falling_resistance_ring"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"G": { "item": "minecraft:gold_ingot" },
+			"P": { "item": "minecraft:phantom_membrane" }
+		},
+		"pattern": [" G ", "GPG", " G "],
+		"result": {
+			"item": "dorios:falling_resistance_ring"
+		},
+		"unlock": [{ "item": "minecraft:phantom_membrane" }]
+	}
+}

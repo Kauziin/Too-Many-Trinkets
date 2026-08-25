@@ -1,0 +1,19 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:running_shoes"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"L": { "item": "minecraft:leather" },
+			"S": { "item": "minecraft:sugar" },
+			"R": { "item": "minecraft:rabbit_hide" }
+		},
+		"pattern": ["   ", "LSL", "RRR"],
+		"result": {
+			"item": "dorios:running_shoes"
+		},
+		"unlock": [{ "item": "minecraft:leather" }]
+	}
+}

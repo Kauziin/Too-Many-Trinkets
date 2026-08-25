@@ -1,0 +1,142 @@
+## ============================================
+## Too Many Trinkets — Ficheiro de Idioma (pt_PT)
+## ============================================
+
+## CABEÇA
+item.dorios:night_vision_goggles=§aÓculos de Visão Noturna \n§6Slot: §eRosto \n§6Nível: §9Aprendiz \n§fÓculos que permitem ver na escuridão. \n+ I
+item.dorios:snorkel=§bSnorkel \n§6Slot: §eRosto \n§6Nível: §9Aprendiz \n§fUm tubo respiratório para exploração subaquática. \n+30% \n+ I
+item.dorios:villager_hat=§eChapéu de Aldeão \n§6Slot: §eCabeça \n§6Nível: §9Aprendiz \n§fUm chapéu que faz os aldeões tratarem-te como herói. \n+3% Chance Crítica \n+ I
+item.dorios:cowboy_hat=§6Chapéu de Cowboy \n§6Slot: §eCabeça \n§6Nível: §fPrimitivo \n§fUm chapéu estiloso que acelera os teus passos. \n+20%
+item.dorios:superstitious_hat=§dChapéu Supersticioso \n§6Slot: §eCabeça \n§6Nível: §9Aprendiz \n§fUm chapéu místico com 33% de hipótese de duplicar drops de mobs. \n+8% Chance Crítica
+item.dorios:anglers_hat=§bChapéu de Pescador \n§6Slot: §eCabeça \n§6Nível: §fPrimitivo \n§fUm chapéu de pescador com 33% de hipótese de duplicar itens pescados. \n+10%
+item.dorios:whoopee_cushion=§cAlmofada Sonora \n§6Slot: §eCabeça \n§6Nível: §fPrimitivo \n§fUm item de brincadeira que faz sons engraçados ao moveres-te. \n+5%
+
+## COLAR
+item.dorios:panic_necklace=§cColar do Pânico \n§6Slot: §eColar \n§6Nível: §9Aprendiz \n§fConcede um surto de velocidade ao receberes dano. \n+20% | +2 \n+ I ao ser atingido (5s)
+item.dorios:cross_necklace=§fColar Crucifixo \n§6Slot: §eColar \n§6Nível: §eMestre \n§fEstende os teus frames de invencibilidade após seres atingido. \n+10% Red. de Dano | +6 \n+ I ao ser atingido (3s)
+item.dorios:shock_pendant=§ePendente de Choque \n§6Slot: §eColar \n§6Nível: §eMestre \n§f25% de hipótese de acertar o atacante com um raio. \n+2 | +5% Espinhos
+item.dorios:flame_pendant=§6Pendente de Chamas \n§6Slot: §eColar \n§6Nível: §eMestre \n§f40% de hipótese de incendiar o teu atacante. \n+3 ao golpear
+item.dorios:venomous_slash_pendant=§2Pendente de Corte Venenoso \n§6Slot: §eColar \n§6Nível: §eMestre \n§fAo acertar, desfere um corte em área que causa dano bónus igual ao dano do golpe anterior e aplica Veneno Fatal II por 3s. \n+3 | +5% Chance Crítica \nCorte Venenoso em Área ao acertar
+item.dorios:thorn_pendant=§aPendente de Espinhos \n§6Slot: §eColar \n§6Nível: §9Aprendiz \n§fReflete dano de volta aos atacantes com espinhos. \n+20% Espinhos | +2
+item.dorios:lucky_scarf=§eCachecol da Sorte \n§6Slot: §eColar \n§6Nível: §9Aprendiz \n§fUm cachecol sortudo que adiciona drops extras ao minerar. \n+10% Chance Crítica
+item.dorios:scarf_of_invisibility=§7Cachecol de Invisibilidade \n§6Slot: §eColar \n§6Nível: §eMestre \n§fEnvolve-te em invisibilidade permanente. \n+15% \n+ I
+
+## CORPO
+item.dorios:charm_of_shrinking=§dAmuleto de Encolhimento \n§6Slot: §eCorpo \n§6Nível: §9Aprendiz \n§fEncolhe-te, tornando-te mais rápido e difícil de acertar. \n+20% | +10% Red. de Dano
+item.dorios:charm_of_sinking=§bAmuleto de Mergulho \n§6Slot: §eCorpo \n§6Nível: §eMestre \n§fConcede Poder de Conduíte para domínio subaquático. \n+50% \n+ I
+
+## LUVA
+item.dorios:fire_gauntlet=§6Luva de Fogo \n§6Slot: §eLuva \n§6Nível: §9Aprendiz \n§fUma luva ardente que incendeia inimigos ao contacto. \n+1 \n+ ao golpear
+item.dorios:feral_claws=§cGarras Selvagens \n§6Slot: §eLuva \n§6Nível: §eMestre \n§fGarras brutais que rasgam inimigos com golpes críticos. \n+3 | +10% Crit | +15% Crit Multi
+item.dorios:power_glove=§4Luva de Poder \n§6Slot: §eLuva \n§6Nível: §eMestre \n§fUma luva poderosa que arremessa inimigos para longe. \n+4 | +10% Recuo
+item.dorios:digging_claws=§eGarras de Escavação \n§6Slot: §eLuva \n§6Nível: §fPrimitivo \n§fGarras afiadas que aceleram a mineração. \n+1 \n+ I
+item.dorios:pocket_piston=§7Pistão de Bolso \n§6Slot: §eLuva \n§6Nível: §9Aprendiz \n§fUm dispositivo mecânico que soca com força extra. \n+2 | +15% Recuo
+item.dorios:pickaxe_heater=§6Aquecedor de Picareta \n§6Slot: §eLuva \n§6Nível: §9Aprendiz \n§fFunde minérios automaticamente em lingotes. \n+1 \n+ I
+item.dorios:withered_bracelet=§8Bracelete Definhado \n§6Slot: §eLuva \n§6Nível: §eMestre \n§fUm bracelete sombrio que inflige Wither nos inimigos. \n+2 \n+ ao golpear \n Imunidade
+item.dorios:steadfast_spikes=§7Espinhos Firmes \n§6Slot: §eLuva \n§6Nível: §9Aprendiz \n§fEspinhos que te mantêm firme e punem atacantes. \n+60% Resist. Recuo | +2 | +5% Espinhos
+
+## ANEL
+item.dorios:golden_hook=§eGancho Dourado \n§6Slot: §eAnel \n§6Nível: §9Aprendiz \n§fUm gancho dourado que concede XP bónus ao matar. \n+2
+item.dorios:onion_ring=§6Anéis de Cebola \n§6Slot: §eAnel \n§6Nível: §9Aprendiz \n§fUm anel delicioso que sacia a fome e concede Pressa ao comer. \n+4 \n+ I
+item.dorios:vampiric_glove=§4Luva Vampírica \n§6Slot: §eAnel \n§6Nível: §eMestre \n§fDrena vida dos inimigos a cada golpe. \n+1 \n+8% Roubo de Vida
+
+## AMULETO
+item.dorios:obsidian_skull=§8Crânio de Obsidiana \n§6Slot: §eAmuleto \n§6Nível: §eMestre \n§fConcede imunidade ao fogo e breve resistência à lava. \n+4 \n+ I (na Lava) \n Imunidade
+item.dorios:antidote_vessel=§aFrasco Antídoto \n§6Slot: §eAmuleto \n§6Nível: §9Aprendiz \n§fUm frasco purificador que neutraliza toxinas nocivas. \n+2 \n |  |  Imunidade
+item.dorios:cloud_in_a_bottle=§fNuvem na Garrafa \n§6Slot: §eAmuleto \n§6Nível: §9Aprendiz \n§fUma nuvem engarrafada que concede duplo salto. \n+10% \n+1 Salto Extra
+item.dorios:universal_attractor=§dAtrator Universal \n§6Slot: §eAmuleto \n§6Nível: §9Aprendiz \n§fUm dispositivo magnético que puxa itens próximos até ti. \n+10% \nÍman de Itens
+item.dorios:warp_drive=§5Motor de Dobra \n§6Slot: §eAmuleto \n§6Nível: §eMestre \n§fDistorce o espaço-tempo para preservar pérolas do End. \n+10% \n+1 Salto Extra \nReembolso de Pérola
+
+## AMULETO DE SAÚDE
+item.dorios:crystal_heart=§dCoração de Cristal \n§6Slot: §eAmuleto de Saúde \n§6Nível: §eMestre \n§fUm coração radiante que aumenta muito a tua vitalidade. \n+16 \n+ I
+
+## TALISMÃ
+item.dorios:chorus_totem=§5Totem de Chorus \n§6Slot: §eTalismã \n§6Nível: §eMestre \n§fTeleporta-te para segurança quando morrerias. \n+4 | +10% \nSalvação da Morte (Teleporte)
+item.dorios:helium_flamingo=§dFlamingo de Hélio \n§6Slot: §eTalismã \n§6Nível: §eMestre \n§fUma boia excêntrica que concede salto extra e agilidade. \n+10% \n+1 Salto Extra
+
+## PÉS
+item.dorios:running_shoes=§eTénis de Corrida \n§6Slot: §ePés \n§6Nível: §fPrimitivo \n§fTénis leves que aumentam a velocidade de movimento. \n+50%
+item.dorios:bunny_hoppers=§aSaltadores de Coelho \n§6Slot: §ePés \n§6Nível: §9Aprendiz \n§fBotas saltitantes com saltos altos e sem dano de queda. \n+10% \n+ II | +2 Saltos Extras \nSem Dano de Queda
+item.dorios:kitty_slippers=§dPantufas de Gatinho \n§6Slot: §ePés \n§6Nível: §9Aprendiz \n§fPantufas adoráveis que espantam Creepers. \n+20% | +5% Chance Crítica \nRepelente de Creeper
+item.dorios:flippers=§bBarbatanas \n§6Slot: §ePés \n§6Nível: §9Aprendiz \n§fBarbatanas que aumentam muito a velocidade na água. \n+10% | +80%
+item.dorios:rooted_boots=§aBotas Enraizadas \n§6Slot: §ePés \n§6Nível: §9Aprendiz \n§fBotas imbuídas pela natureza que regeneram vida. \n+4 | +10% Red. de Dano \n+ I
+item.dorios:aqua_dashers=§bBotas Aquáticas \n§6Slot: §ePés \n§6Nível: §eMestre \n§fBotas encantadas que permitem correr pela água. \n+15% | +100% \n+ I
+item.dorios:snowshoes=§fBotas de Neve \n§6Slot: §ePés \n§6Nível: §9Aprendiz \n§fBotas largas para atravessar neve e gelo sem dificuldade. \n+25% | +15% Red. de Dano \n Imunidade
+item.dorios:strider_shoes=§6Botas de Strider \n§6Slot: §ePés \n§6Nível: §eMestre \n§fBotas derretidas que concedem imunidade ao fogo e velocidade na lava. \n+15% | +200% Lava \n+ I
+
+## MEDALHÃO
+item.dorios:plastic_drinking_hat=§bChapéu de Bebida Plástico \n§6Slot: §eCabeça \n§6Nível: §9Aprendiz \n§fMantém-te hidratado e bem alimentado sempre. \n+2 | +5 \n+ I
+item.dorios:novelty_drinking_hat=§dChapéu de Bebida Divertido \n§6Slot: §eCabeça \n§6Nível: §9Aprendiz \n§fUma variante chamativa que te mantém energizado. \n+10% | +3 \n+ I
+
+## ITENS ESPECIAIS
+item.dorios:eternal_steak=§6Bife Eterno \n§fUm bife mágico que volta ao inventário após ser comido.
+item.dorios:everlasting_beef=§cCarne Eterna \n§fCarne crua infundida com magia. Cozinha para obter um Bife Eterno.
+item.dorios:umbrella=§7Guarda-chuva \n§6Slot: §eAmuleto \n§6Nível: §9Aprendiz \n§fUm guarda-chuva protetor que amortece quedas e protege de cima. \n+5% Red. de Dano \n+ I \n+ I (Ao Ar Livre)
+## R&R - SLOT CABEÇA
+item.dorios:pirate_hat=§6Chapéu de Pirata \n§6Slot: §eCabeça \n§6Tier: §9Aprendiz \n§f20% de hipótese de duplicar drops ao matar. \n+10% Chance Crítica
+
+## R&R - SLOT COLAR
+item.dorios:conduit_necklace=§bColar de Conduto \n§6Slot: §eColar \n§6Tier: §eObra-prima \n§fConcede Poder de Conduto enquanto submerso. \n+30% \n+ I na água
+item.dorios:holy_necklace=§eColar Sagrado \n§6Slot: §eColar \n§6Tier: §eObra-prima \n§fIncendeia mortos-vivos próximos com fogo sagrado. \n+2 | +2 \nAura de Fogo Sagrado
+
+## R&R - SLOT MANOPLA
+item.dorios:freezing_glove=§bLuva Congelante \n§6Slot: §eManopla \n§6Tier: §9Aprendiz \n§fCongela inimigos ao contacto com frio cortante. \n+1 \n+ II ao acertar
+item.dorios:holy_dagger=§eAdaga Sagrada \n§6Slot: §eManopla \n§6Tier: §eObra-prima \n§fCausa dano extra a criaturas mortas-vivas. \n+3 \n+2-6 vs Mortos-Vivos
+
+## R&R - SLOT ANEL
+item.dorios:falling_resistance_ring=§fAnel de Resistência à Queda \n§6Slot: §eAnel \n§6Tier: §9Aprendiz \n§fUm anel que amortece a queda com uma descida suave. \n+2 \n+ I
+item.dorios:deep_sea_ring=§bAnel do Mar Profundo \n§6Slot: §eAnel \n§6Tier: §9Aprendiz \n§fUm anel que permite respirar sob as ondas. \n+30% \n+ I
+item.dorios:fall_regen_ring=§aAnel de Regen. por Queda \n§6Slot: §eAnel \n§6Tier: §9Aprendiz \n§fRegeneração é ativada ao sofrer dano de queda. \n+2 | +1 \nRegen ao Cair
+item.dorios:heroic_ring=§eAnel Heroico \n§6Slot: §eAnel \n§6Tier: §eObra-prima \n§fMarca-o como herói aos olhos dos aldeões. \n+4 \n+ I
+item.dorios:miners_ring=§7Anel do Mineiro \n§6Slot: §eAnel \n§6Tier: §9Aprendiz \n§fAcelera a mineração com eficiência aprimorada. \n+1 \n+ I
+
+## R&R - SLOT AMULETO
+item.dorios:dice=§dDados Viciados \n§6Slot: §eAmuleto \n§6Tier: §9Aprendiz \n§f25% de hipótese de duplicar drops ao matar. \n+5% Chance Crítica
+item.dorios:golden_horn=§eCorneta Dourada \n§6Slot: §eAmuleto \n§6Tier: §9Aprendiz \n§fUma corneta que enfraquece Illagers ao acertar. \n+2 \nFraqueza em Illagers
+item.dorios:holy_grail=§eSanto Graal \n§6Slot: §eAmuleto \n§6Tier: §eObra-prima \n§fTroca XP por regeneração gradual de vida. \n+4 | +3 \nXP para HP
+item.dorios:mirror=§bEspelho Encantado \n§6Slot: §eAmuleto \n§6Tier: §eObra-prima \n§f40% de hipótese de refletir dano corpo a corpo. \n+2 | +5% Espinhos \n40% Reflexão de Dano
+item.dorios:necromancer_charm=§5Amuleto Necromante \n§6Slot: §eAmuleto \n§6Tier: §eObra-prima \n§f60% de hipótese de invocar aliado morto-vivo ao matar. \n+2 \nInvocar Esqueleto Aliado
+item.dorios:void_star=§5Estrela do Vazio \n§6Slot: §eAmuleto \n§6Tier: §eObra-prima \n§fPacifica Endermen próximos com energia cósmica. \n+2 \nPacificação de Enderman
+item.dorios:voodoo=§8Boneco Voodoo \n§6Slot: §eAmuleto \n§6Tier: §eObra-prima \n§f40% de hipótese de redirecionar dano para inimigos próximos. \n+5% Espinhos \n40% Redirecionamento de Dano
+item.dorios:weight=§7Peso de Pedra \n§6Slot: §eAmuleto \n§6Tier: §9Aprendiz \n§fCausa dano em área ao aterrar de uma altura. \n+4 | +10% Repulsão \nDano em Área ao Aterrar
+item.dorios:golden_feather=§ePena Dourada \n§6Slot: §eAmuleto \n§6Tier: §9Aprendiz \n§fUma pena suave que concede uma descida segura. \n+10% \n+ I
+
+## R&R - SLOT TALISMÃ
+item.dorios:void_totem=§5Totem do Vazio \n§6Slot: §eTalismã \n§6Tier: §eObra-prima \n§fTeleporta-o para segurança ao cair no vazio. \n+4 | +10% \nSalvação do Vazio
+
+## R&R - SLOT PÉS
+item.dorios:floater_boots=§bBotas Flutuantes \n§6Slot: §ePés \n§6Tier: §9Aprendiz \n§fBotas flutuantes para travessia aquática sem esforço. \n+80% \n+ I
+item.dorios:anti_slip_boots=§fBotas Antiderrapantes \n§6Slot: §ePés \n§6Tier: §9Aprendiz \n§fBotas que impedem escorregões em gelo e neve. \n+25% | +5% Redução de Dano \n Imunidade
+item.dorios:rocket_boots=§cBotas Foguete \n§6Slot: §ePés \n§6Tier: §eObra-prima \n§fBotas propulsivas que o lançam aos céus. \n+10% \n+2 Saltos Extras
+item.dorios:guardian_fin=§bBarbatana Guardiã \n§6Slot: §ePés \n§6Tier: §9Aprendiz \n§fUma barbatana para movimentação aquática veloz. \n+10% | +60%
+
+## R&R - SLOT ROSTO
+item.dorios:golden_skull=§6Crânio Dourado \n§6Slot: §eRosto \n§6Tier: §eObra-prima \n§fUm crânio temível que aprimora a proeza em combate. \n+3 | +10% Chance Crítica
+item.dorios:monocle=§7Monóculo \n§6Slot: §eRosto \n§6Tier: §9Aprendiz \n§fRevela a vida de criaturas próximas. \n+6% Chance Crítica \nExibição de Vida do Mob
+
+## R&R - SLOT ANEL 2
+item.dorios:devine_protection_ring=§bAnel de Proteção Divina \n§6Slot: §eAnel 2 \n§6Tier: §eObra-prima \n§fConcede Resistência quando a vida desce. \n+4 | +5% Redução de Dano \n+ II com HP baixo
+item.dorios:feline_protection_ring=§aAnel de Proteção Felina \n§6Slot: §eAnel 2 \n§6Tier: §9Aprendiz \n§fEspanta Creepers com a essência de gatos. \n+2 | +10% \nRepelente de Creeper
+item.dorios:magnetic_ring=§dAnel Magnético \n§6Slot: §eAnel 2 \n§6Tier: §9Aprendiz \n§fUm anel que atrai itens próximos. \n+5% \nÍmã de Itens
+item.dorios:shadow_sneak_ring=§7Anel Furtivo das Sombras \n§6Slot: §eAnel 2 \n§6Tier: §eObra-prima \n§fConcede Invisibilidade e Velocidade ao agachar. \n+10% \n+ I | + I ao agachar
+
+## R&R - SLOT ANEL PESADO
+item.dorios:berserk_ring=§cAnel Berserk \n§6Slot: §eAnel Pesado \n§6Tier: §eObra-prima \n§fForça acumulativa ao matar (máx. nível V, 5s). \n+4 | +5% Multi Crítico \nForça ao Matar
+item.dorios:vampire_ring=§4Anel Vampírico \n§6Slot: §eAnel Pesado \n§6Tier: §eObra-prima \n§fDrena 35% do dano causado como vida. \n+2 | +35% Roubo de Vida
+item.dorios:anti_curse_ring=§aAnel Anti-Maldição \n§6Slot: §eAnel Pesado \n§6Tier: §eObra-prima \n§fPurifica todos os efeitos negativos. \n+4 | +5% Redução de Dano \n Imunidade Total
+
+## R&R - SLOT CINTO
+item.dorios:life_buoy=§bBoia Salva-Vidas \n§6Slot: §eCinto \n§6Tier: §9Aprendiz \n§fPermite flutuar ao agachar debaixo de água. \n+30% | +2 \nFlutuar na Água
+item.dorios:rocket_thruster=§cPropulsor Foguete \n§6Slot: §eCinto \n§6Tier: §eObra-prima \n§fUm propulsor que oferece impulso extra de velocidade. \n+20% \n+1 Salto Extra
+item.dorios:premium_pillow=§fAlmofada Premium \n§6Slot: §eCinto \n§6Tier: §9Aprendiz \n§fUma almofada luxuosa que acalma e cura ao longo do tempo. \n+2 | +5
+## NOVOS TRINKETS v2.1 — Série de Anéis com Entity API
+item.dorios:sprint_ring=§cAnel de Corrida \n§6Slot: §eAnel \n§6Nível: §9Aprendiz \n§fConcede Velocidade II e Força I ao correr. \n+15% \n+ II | + I ao correr
+item.dorios:gale_ring=§eAnel do Vendaval \n§6Slot: §eAnel \n§6Nível: §9Aprendiz \n§fUm anel infundido com vento que nega dano de queda. \n+1 Salto Extra \n+ I \nSem Dano de Queda
+item.dorios:shepherds_ring=§dAnel do Pastor \n§6Slot: §eAnel \n§6Nível: §9Aprendiz \n§fDobra os drops ao matar animais passivos. \n+2 | +1 \nDrops Duplos de Animais
+item.dorios:frost_ring=§bAnel Gélido \n§6Slot: §eAnel \n§6Nível: §9Aprendiz \n§fIrradia frio, desacelerando inimigos próximos. \n+5% Red. de Dano \nAura de Lentidão
+item.dorios:tidal_ring=§bAnel das Marés \n§6Slot: §eAnel Pesado \n§6Nível: §eMestre \n§fCanaliza o poder do oceano quando submerso. \n+50% \n+ I na água
+item.dorios:earthshaker_ring=§6Anel Sísmico \n§6Slot: §eAnel Pesado \n§6Nível: §eMestre \n§fGolpeia o chão ao aterrar, causando dano em área. \n+3 | +2 Repulsão \nImpacto Sísmico ao Aterrar
+item.dorios:gravity_ring=§8Anel Gravitacional \n§6Slot: §eAnel Pesado \n§6Nível: §eMestre \n§fPuxa inimigos próximos com força gravitacional. \n+20% Resist. Repulsão \nPuxão Gravitacional
+item.dorios:ender_ring=§5Anel do End \n§6Slot: §eAnel Pesado \n§6Nível: §eMestre \n§fExtingue fogo automaticamente e teleporta-te em HP baixo. \n+2 | +10% \nExtinção de Fogo | Salvação por Teleporte
+item.dorios:heart_from_the_fourth_dimension=§dCoração da Quarta Dimensão \n§6Slot: §eAmuleto de Saúde \n§6Nível: §6§lÉpico \n§fRevive-te com 4 corações ao estares perto da morte. \n+20 | +30% Red. de Dano \nSalvação da Morte (5 min de espera)
+item.dorios:silk_glove=§fLuva de Seda \n§6Slot: §eLuva \n§6Nível: §9Aprendiz \n§fUma luva delicada que faz minérios droparem como blocos. \n+1 \n+ II \nToque Suave em Minérios

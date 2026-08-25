@@ -1,0 +1,19 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:antidote_vessel"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"G": { "item": "minecraft:glass_bottle" },
+			"H": { "item": "minecraft:honey_bottle" },
+			"E": { "item": "minecraft:emerald" }
+		},
+		"pattern": ["EHE", "HGH", "EHE"],
+		"result": {
+			"item": "dorios:antidote_vessel"
+		},
+		"unlock": [{ "item": "minecraft:honey_bottle" }]
+	}
+}

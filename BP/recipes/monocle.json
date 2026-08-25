@@ -1,0 +1,19 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:monocle"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"G": { "item": "minecraft:gold_ingot" },
+			"P": { "item": "minecraft:glass_pane" },
+			"R": { "item": "minecraft:redstone" }
+		},
+		"pattern": ["GGG", "GPG", " R "],
+		"result": {
+			"item": "dorios:monocle"
+		},
+		"unlock": [{ "item": "minecraft:gold_ingot" }]
+	}
+}

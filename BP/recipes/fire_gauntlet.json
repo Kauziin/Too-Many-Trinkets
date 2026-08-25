@@ -1,0 +1,19 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:fire_gauntlet"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"B": { "item": "minecraft:blaze_rod" },
+			"I": { "item": "minecraft:iron_ingot" },
+			"M": { "item": "minecraft:magma_cream" }
+		},
+		"pattern": ["BIB", "IMI", "BIB"],
+		"result": {
+			"item": "dorios:fire_gauntlet"
+		},
+		"unlock": [{ "item": "minecraft:blaze_rod" }]
+	}
+}

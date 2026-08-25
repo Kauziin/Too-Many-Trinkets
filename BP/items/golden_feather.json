@@ -1,0 +1,17 @@
+﻿{
+"format_version": "1.21.40",
+"minecraft:item": {
+"description": {
+"identifier": "dorios:golden_feather",
+"menu_category": {
+"category": "equipment",
+"group": "itemGroup.name.tmt"
+}
+},
+"components": {
+"minecraft:icon": "dorios_golden_feather",
+"minecraft:max_stack_size": 1,
+"minecraft:rarity": "rare"
+}
+}
+}

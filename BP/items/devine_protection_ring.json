@@ -1,0 +1,17 @@
+﻿{
+"format_version": "1.21.40",
+"minecraft:item": {
+"description": {
+"identifier": "dorios:devine_protection_ring",
+"menu_category": {
+"category": "equipment",
+"group": "itemGroup.name.tmt"
+}
+},
+"components": {
+"minecraft:icon": "dorios_devine_protection_ring",
+"minecraft:max_stack_size": 1,
+"minecraft:rarity": "rare"
+}
+}
+}

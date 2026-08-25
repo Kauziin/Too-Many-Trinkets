@@ -1,0 +1,19 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:cross_necklace"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"G": { "item": "minecraft:gold_ingot" },
+			"D": { "item": "minecraft:diamond" },
+			"S": { "item": "minecraft:string" }
+		},
+		"pattern": [" S ", " G ", "GDG"],
+		"result": {
+			"item": "dorios:cross_necklace"
+		},
+		"unlock": [{ "item": "minecraft:gold_ingot" }]
+	}
+}

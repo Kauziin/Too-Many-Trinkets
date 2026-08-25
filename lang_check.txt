@@ -1,0 +1,16 @@
+=== pt_BR ===
+Missing keys (0): 
+Glyph mismatches (0):
+
+=== pt_PT ===
+Missing keys (0): 
+Glyph mismatches (0):
+
+=== es_ES ===
+Missing keys (0): 
+Glyph mismatches (0):
+
+=== es_MX ===
+Missing keys (0): 
+Glyph mismatches (0):
+

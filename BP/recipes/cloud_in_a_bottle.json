@@ -1,0 +1,19 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:cloud_in_a_bottle"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"G": { "item": "minecraft:glass_bottle" },
+			"F": { "item": "minecraft:feather" },
+			"W": { "item": "minecraft:white_wool" }
+		},
+		"pattern": [" W ", "WFW", " G "],
+		"result": {
+			"item": "dorios:cloud_in_a_bottle"
+		},
+		"unlock": [{ "item": "minecraft:feather" }]
+	}
+}

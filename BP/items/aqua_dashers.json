@@ -1,0 +1,15 @@
+﻿{
+	"format_version": "1.21.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "dorios:aqua_dashers",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "dorios_aqua_dashers",
+			"minecraft:max_stack_size": 1
+		}
+	}
+}

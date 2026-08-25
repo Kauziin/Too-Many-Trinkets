@@ -1,0 +1,15 @@
+﻿{
+	"format_version": "1.21.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "dorios:kitty_slippers",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "dorios_kitty_slippers",
+			"minecraft:max_stack_size": 1
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Too Many Trinkets",
+	"namespace": "dorios",
+	"authors": [
+		"Dorios Studios"
+	],
+	"targetVersion": "1.21.130",
+	"description": "Artifacts reimagined as Dorios Trinkets — 48 items powered by Dorios RPG Core.",
+	"experimentalGameplay": {
+		"upcomingCreatorFeatures": false,
+		"experimentalCreatorCameraFeatures": false,
+		"enableGameTestFramework": false,
+		"renderDragonFeatures": false,
+		"educationEdition": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Too Many Trinkets"
+				}
+			]
+		]
+	}
+}

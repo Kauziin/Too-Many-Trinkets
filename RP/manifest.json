@@ -1,0 +1,35 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"product_type": "addon",
+		"authors": [
+			"Dorios Studios"
+		]
+	},
+	"header": {
+		"name": "Too Many Trinkets",
+		"description": "Version 1.1.0 §6Dorios Studios",
+		"min_engine_version": [
+			1,
+			21,
+			80
+		],
+		"uuid": "bbfdd9c9-082b-4297-85c3-ea3cf992cdee",
+		"version": [
+			1,
+			1,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "90d8f878-3c17-4838-9a13-3a8c5e7c41a3",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

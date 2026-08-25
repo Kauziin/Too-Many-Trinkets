@@ -1,0 +1,20 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:void_quiver"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"S": { "item": "minecraft:string" },
+			"L": { "item": "minecraft:leather" },
+			"A": { "item": "minecraft:arrow" },
+			"E": { "item": "minecraft:ender_pearl" }
+		},
+		"pattern": ["SAS", "LEL", "SAS"],
+		"result": {
+			"item": "dorios:void_quiver"
+		},
+		"unlock": [{ "item": "minecraft:ender_pearl" }]
+	}
+}

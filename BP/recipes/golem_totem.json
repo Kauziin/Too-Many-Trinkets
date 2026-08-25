@@ -1,0 +1,20 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:golem_totem"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"I": { "item": "minecraft:iron_block" },
+			"P": { "item": "minecraft:carved_pumpkin" },
+			"R": { "item": "minecraft:redstone_block" }
+		},
+		"pattern": [" I ", "IPI", "IRI"],
+		"result": {
+			"item": "dorios:golem_totem",
+			"count": 1
+		},
+		"unlock": [{ "item": "minecraft:carved_pumpkin" }]
+	}
+}

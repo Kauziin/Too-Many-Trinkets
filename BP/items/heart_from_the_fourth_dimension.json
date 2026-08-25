@@ -1,0 +1,17 @@
+{
+	"format_version": "1.21.40",
+	"minecraft:item": {
+		"description": {
+			"identifier": "dorios:heart_from_the_fourth_dimension",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.tmt"
+			}
+		},
+		"components": {
+			"minecraft:icon": "dorios_heart_from_the_fourth_dimension",
+			"minecraft:max_stack_size": 1,
+			"minecraft:rarity": "epic"
+		}
+	}
+}

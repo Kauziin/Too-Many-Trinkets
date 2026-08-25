@@ -1,0 +1,17 @@
+﻿{
+"format_version": "1.21.40",
+"minecraft:item": {
+"description": {
+"identifier": "dorios:rocket_thruster",
+"menu_category": {
+"category": "equipment",
+"group": "itemGroup.name.tmt"
+}
+},
+"components": {
+"minecraft:icon": "dorios_rocket_thruster",
+"minecraft:max_stack_size": 1,
+"minecraft:rarity": "rare"
+}
+}
+}

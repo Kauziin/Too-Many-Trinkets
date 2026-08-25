@@ -1,0 +1,297 @@
+﻿{
+	"resource_pack_name": "Too Many Trinkets",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"dorios_night_vision_goggles": {
+			"textures": "textures/items/night_vision_goggles"
+		},
+		"dorios_snorkel": {
+			"textures": "textures/items/snorkel"
+		},
+		"dorios_villager_hat": {
+			"textures": "textures/items/villager_hat"
+		},
+		"dorios_cowboy_hat": {
+			"textures": "textures/items/cowboy_hat"
+		},
+		"dorios_superstitious_hat": {
+			"textures": "textures/items/superstitious_hat"
+		},
+		"dorios_anglers_hat": {
+			"textures": "textures/items/anglers_hat"
+		},
+		"dorios_whoopee_cushion": {
+			"textures": "textures/items/whoopee_cushion"
+		},
+		"dorios_panic_necklace": {
+			"textures": "textures/items/panic_necklace"
+		},
+		"dorios_cross_necklace": {
+			"textures": "textures/items/cross_necklace"
+		},
+		"dorios_shock_pendant": {
+			"textures": "textures/items/shock_pendant"
+		},
+		"dorios_flame_pendant": {
+			"textures": "textures/items/flame_pendant"
+		},
+		"dorios_venomous_slash_pendant": {
+			"textures": "textures/items/venomous_slash_pendant"
+		},
+		"dorios_thorn_pendant": {
+			"textures": "textures/items/thorn_pendant"
+		},
+		"dorios_lucky_scarf": {
+			"textures": "textures/items/lucky_scarf"
+		},
+		"dorios_scarf_of_invisibility": {
+			"textures": "textures/items/scarf_of_invisibility"
+		},
+		"dorios_charm_of_shrinking": {
+			"textures": "textures/items/charm_of_shrinking"
+		},
+		"dorios_charm_of_sinking": {
+			"textures": "textures/items/charm_of_sinking"
+		},
+		"dorios_void_quiver": {
+			"textures": "textures/items/void_quiver"
+		},
+		"dorios_fire_gauntlet": {
+			"textures": "textures/items/fire_gauntlet"
+		},
+		"dorios_feral_claws": {
+			"textures": "textures/items/feral_claws"
+		},
+		"dorios_power_glove": {
+			"textures": "textures/items/power_glove"
+		},
+		"dorios_digging_claws": {
+			"textures": "textures/items/digging_claws"
+		},
+		"dorios_pocket_piston": {
+			"textures": "textures/items/pocket_piston"
+		},
+		"dorios_pickaxe_heater": {
+			"textures": "textures/items/pickaxe_heater"
+		},
+		"dorios_withered_bracelet": {
+			"textures": "textures/items/withered_bracelet"
+		},
+		"dorios_steadfast_spikes": {
+			"textures": "textures/items/steadfast_spikes"
+		},
+		"dorios_golden_hook": {
+			"textures": "textures/items/golden_hook"
+		},
+		"dorios_onion_ring": {
+			"textures": "textures/items/onion_ring"
+		},
+		"dorios_vampiric_glove": {
+			"textures": "textures/items/vampiric_glove"
+		},
+		"dorios_obsidian_skull": {
+			"textures": "textures/items/obsidian_skull"
+		},
+		"dorios_antidote_vessel": {
+			"textures": "textures/items/antidote_vessel"
+		},
+		"dorios_cloud_in_a_bottle": {
+			"textures": "textures/items/cloud_in_a_bottle"
+		},
+		"dorios_universal_attractor": {
+			"textures": "textures/items/universal_attractor"
+		},
+		"dorios_warp_drive": {
+			"textures": "textures/items/warp_drive"
+		},
+		"dorios_crystal_heart": {
+			"textures": "textures/items/crystal_heart"
+		},
+		"dorios_chorus_totem": {
+			"textures": "textures/items/chorus_totem"
+		},
+		"dorios_helium_flamingo": {
+			"textures": "textures/items/helium_flamingo"
+		},
+		"dorios_running_shoes": {
+			"textures": "textures/items/running_shoes"
+		},
+		"dorios_bunny_hoppers": {
+			"textures": "textures/items/bunny_hoppers"
+		},
+		"dorios_kitty_slippers": {
+			"textures": "textures/items/kitty_slippers"
+		},
+		"dorios_flippers": {
+			"textures": "textures/items/flippers"
+		},
+		"dorios_rooted_boots": {
+			"textures": "textures/items/rooted_boots"
+		},
+		"dorios_aqua_dashers": {
+			"textures": "textures/items/aqua_dashers"
+		},
+		"dorios_snowshoes": {
+			"textures": "textures/items/snowshoes"
+		},
+		"dorios_strider_shoes": {
+			"textures": "textures/items/strider_shoes"
+		},
+		"dorios_plastic_drinking_hat": {
+			"textures": "textures/items/plastic_drinking_hat"
+		},
+		"dorios_novelty_drinking_hat": {
+			"textures": "textures/items/novelty_drinking_hat"
+		},
+		"dorios_eternal_steak": {
+			"textures": "textures/items/eternal_steak"
+		},
+		"dorios_everlasting_beef": {
+			"textures": "textures/items/everlasting_beef"
+		},
+		"dorios_umbrella": {
+			"textures": "textures/items/umbrella"
+		},
+		"dorios_pirate_hat": {
+			"textures": "textures/items/pirate_hat"
+		},
+		"dorios_conduit_necklace": {
+			"textures": "textures/items/conduit_necklace"
+		},
+		"dorios_holy_necklace": {
+			"textures": "textures/items/holy_necklace"
+		},
+		"dorios_freezing_glove": {
+			"textures": "textures/items/freezing_glove"
+		},
+		"dorios_holy_dagger": {
+			"textures": "textures/items/holy_dagger"
+		},
+		"dorios_falling_resistance_ring": {
+			"textures": "textures/items/ring_type_white"
+		},
+		"dorios_deep_sea_ring": {
+			"textures": "textures/items/ring_type_blue"
+		},
+		"dorios_fall_regen_ring": {
+			"textures": "textures/items/ring_type_white"
+		},
+		"dorios_heroic_ring": {
+			"textures": "textures/items/ring_type_green"
+		},
+		"dorios_miners_ring": {
+			"textures": "textures/items/ring_type_white"
+		},
+		"dorios_dice": {
+			"textures": "textures/items/dice"
+		},
+		"dorios_golden_horn": {
+			"textures": "textures/items/golden_horn"
+		},
+		"dorios_holy_grail": {
+			"textures": "textures/items/holy_grail"
+		},
+		"dorios_mirror": {
+			"textures": "textures/items/mirror"
+		},
+		"dorios_necromancer_charm": {
+			"textures": "textures/items/necromancer_charm"
+		},
+		"dorios_void_star": {
+			"textures": "textures/items/void_star"
+		},
+		"dorios_voodoo": {
+			"textures": "textures/items/voodoo"
+		},
+		"dorios_weight": {
+			"textures": "textures/items/weight"
+		},
+		"dorios_golden_feather": {
+			"textures": "textures/items/golden_feather"
+		},
+		"dorios_void_totem": {
+			"textures": "textures/items/void_totem"
+		},
+		"dorios_golem_totem": {
+			"textures": "textures/items/golem_totem"
+		},
+		"dorios_floater_boots": {
+			"textures": "textures/items/floater_boots"
+		},
+		"dorios_anti_slip_boots": {
+			"textures": "textures/items/anti_slip_boots"
+		},
+		"dorios_rocket_boots": {
+			"textures": "textures/items/rocket_boots"
+		},
+		"dorios_guardian_fin": {
+			"textures": "textures/items/guardian_fin"
+		},
+		"dorios_golden_skull": {
+			"textures": "textures/items/golden_skull"
+		},
+		"dorios_monocle": {
+			"textures": "textures/items/monocle"
+		},
+		"dorios_devine_protection_ring": {
+			"textures": "textures/items/ring_type_blue"
+		},
+		"dorios_feline_protection_ring": {
+			"textures": "textures/items/ring_type_green"
+		},
+		"dorios_magnetic_ring": {
+			"textures": "textures/items/ring_type_purple"
+		},
+		"dorios_shadow_sneak_ring": {
+			"textures": "textures/items/ring_type_purple"
+		},
+		"dorios_berserk_ring": {
+			"textures": "textures/items/heavy_yellow_ring"
+		},
+		"dorios_vampire_ring": {
+			"textures": "textures/items/heavy_red_ring"
+		},
+		"dorios_anti_curse_ring": {
+			"textures": "textures/items/heavy_green_ring"
+		},
+		"dorios_life_buoy": {
+			"textures": "textures/items/life_buoy"
+		},
+		"dorios_rocket_thruster": {
+			"textures": "textures/items/rocket_thruster"
+		},
+		"dorios_premium_pillow": {
+			"textures": "textures/items/premium_pillow"
+		},
+		"dorios_sprint_ring": {
+			"textures": "textures/items/ring_type_red"
+		},
+		"dorios_gale_ring": {
+			"textures": "textures/items/ring_type_yellow"
+		},
+		"dorios_tidal_ring": {
+			"textures": "textures/items/heavy_blue_ring"
+		},
+		"dorios_earthshaker_ring": {
+			"textures": "textures/items/heavy_brown_ring"
+		},
+		"dorios_gravity_ring": {
+			"textures": "textures/items/heavy_dark_ring"
+		},
+		"dorios_shepherds_ring": {
+			"textures": "textures/items/heavy_pink_ring"
+		},
+		"dorios_ender_ring": {
+			"textures": "textures/items/heavy_purple_ring"
+		},
+		"dorios_frost_ring": {
+			"textures": "textures/items/heavy_white_ring"
+		},
+		"dorios_heart_from_the_fourth_dimension": {
+			"textures": "textures/items/heart_from_the_fourth_dimension"
+		},
+		"dorios_silk_glove": {
+			"textures": "textures/items/silk_glove"
+		}
+	}
+}

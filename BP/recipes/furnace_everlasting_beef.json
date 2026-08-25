@@ -1,0 +1,12 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "dorios:furnace_everlasting_beef"
+		},
+		"tags": ["furnace", "smoker", "campfire", "soul_campfire"],
+		"input": "dorios:everlasting_beef",
+		"output": "dorios:eternal_steak",
+		"unlock": [{ "item": "dorios:everlasting_beef" }]
+	}
+}

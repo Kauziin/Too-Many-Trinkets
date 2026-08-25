@@ -1,0 +1,19 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:digging_claws"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"I": { "item": "minecraft:iron_ingot" },
+			"D": { "item": "minecraft:diamond" },
+			"S": { "item": "minecraft:stick" }
+		},
+		"pattern": ["DDD", "ISI", " S "],
+		"result": {
+			"item": "dorios:digging_claws"
+		},
+		"unlock": [{ "item": "minecraft:diamond" }]
+	}
+}

@@ -1,0 +1,19 @@
+﻿{
+	"format_version": "1.20.80",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "dorios:crystal_heart"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"D": { "item": "minecraft:diamond" },
+			"H": { "item": "minecraft:golden_apple" },
+			"G": { "item": "minecraft:gold_block" }
+		},
+		"pattern": ["DGD", "GHG", "DGD"],
+		"result": {
+			"item": "dorios:crystal_heart"
+		},
+		"unlock": [{ "item": "minecraft:diamond" }]
+	}
+}
